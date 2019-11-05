@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/floor-plan/static/css/main.d190a0f0.chunk.css",
+    "main.js": "/floor-plan/static/js/main.8db546ea.chunk.js",
+    "main.js.map": "/floor-plan/static/js/main.8db546ea.chunk.js.map",
+    "runtime-main.js": "/floor-plan/static/js/runtime-main.0f359173.js",
+    "runtime-main.js.map": "/floor-plan/static/js/runtime-main.0f359173.js.map",
+    "static/css/2.64c6d3c1.chunk.css": "/floor-plan/static/css/2.64c6d3c1.chunk.css",
+    "static/js/2.8f7b27cb.chunk.js": "/floor-plan/static/js/2.8f7b27cb.chunk.js",
+    "static/js/2.8f7b27cb.chunk.js.map": "/floor-plan/static/js/2.8f7b27cb.chunk.js.map",
+    "index.html": "/floor-plan/index.html",
+    "precache-manifest.dc7436877b59538b184dab085b9eb731.js": "/floor-plan/precache-manifest.dc7436877b59538b184dab085b9eb731.js",
+    "service-worker.js": "/floor-plan/service-worker.js",
+    "static/css/2.64c6d3c1.chunk.css.map": "/floor-plan/static/css/2.64c6d3c1.chunk.css.map",
+    "static/css/main.d190a0f0.chunk.css.map": "/floor-plan/static/css/main.d190a0f0.chunk.css.map",
+    "static/media/blueprint.png": "/floor-plan/static/media/blueprint.173beae2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f359173.js",
+    "static/css/2.64c6d3c1.chunk.css",
+    "static/js/2.8f7b27cb.chunk.js",
+    "static/css/main.d190a0f0.chunk.css",
+    "static/js/main.8db546ea.chunk.js"
+  ]
+}
